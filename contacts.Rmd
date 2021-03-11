@@ -1,0 +1,11 @@
+---
+title: "Contacts"
+---
+
+Bruno A Lima
+
+[e-mail](mailto:bioestisticas@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/oficinadebioestatistica/)
+
+[ORCID](https://orcid.org/0000-0001-9090-4457)

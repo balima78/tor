@@ -1,0 +1,17 @@
+---
+title: "Transplants Open Registry (TOR)"
+---
+
+Transplants Open Registry (TOR) is a private initiative intended to provide high-quality information about kidney transplantation and based solely on open source resources.
+
+#### Aims
+
+- Collecting open data on transplantation (patients and donors) and make it available, in a transparent and accessible way, to all it may concern.
+
+- Carry out statistical and epidemiological analyzes with open data on transplantation to generate knowledge.
+
+- Defining organ allocation algorithms that guarantee equity of access to a scarce good resource as organs for transplantation.
+
+- Providing accurate, clear and transparent information on transplantation activities in Portugal.
+
+- Enabling decision-making based on evidence of data.

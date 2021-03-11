@@ -1,0 +1,12 @@
+---
+title: "Disclaimer"
+---
+
+```{block, type='warning', echo = T}
+All applications presented here are intended for research purposes only, not for clinical or commercial use. 
+
+TOR is a non-profit service to the scientific community, provided on an 'AS-IS' basis without any warranty, expressed or implied. 
+
+The authors can not be held liable in any way for the service provided here.
+```
+
