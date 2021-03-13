@@ -4,21 +4,27 @@ navbar:
   left:
     - text: "About"
       href: about.html
+      icon: fa-info
     - text: "Projects"
       href: projects.html
+      icon: fa-cogs
     - text: "Disclaimer"
       href: disclaimer.html
+      icon: fa-exclamation-triangle
     - text: "Sponsors"
       href: sponsors.html
+      icon: fa-handshake
     - text: "Contacts"
       href: contacts.html
+      icon: fa-address-book
   right:
     - icon: fa-github
       href: https://github.com/balima78
 output:
   html_document:
-    theme: cosmo
+    theme: spacelab
     highlight: textmate
     include:
       after_body: footer.html
+      in_header: header.html
     css: styles.css
