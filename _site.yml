@@ -8,6 +8,9 @@ navbar:
     - text: "Projects"
       href: projects.html
       icon: fa-cogs
+    - text: "Publications"
+      href: publications.html
+      icon: fa-newspaper
     - text: "Disclaimer"
       href: disclaimer.html
       icon: fa-exclamation-triangle

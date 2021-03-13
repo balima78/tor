@@ -4,4 +4,4 @@ title: "Transplants Open Registry (TOR)"
 
 ![](images/od2.jpg)
 
-### [About](about.html) | [Projects](projects.html) | [Disclaimer](disclaimer.html) | [Sponsors](sponsors.html) | [Contacts](contacts.html)
+### [About](about.html) | [Projects](projects.html) | [Publications](publications.html) | [Disclaimer](disclaimer.html) | [Sponsors](sponsors.html) | [Contacts](contacts.html)
