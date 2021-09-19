@@ -3,6 +3,10 @@ title: "Publications"
 ---
 
 
+- Bruno A Lima, Teresa Henriques, Helena Alves. Kidney Allocation Rules Simulator. Transplant International 2021; Vol34 (Suppl. 1): 228 (abstract)
+
+- Bruno A Lima, Teresa Henriques, Helena Alves. Comparing Scores for Predicting Kidney Transplantation Outcomes. Transplant International 2021; Vol34 (Suppl. 1): 228-229 (abstract)
+
 - Bruno A Lima, Helena Alves. [Access to kidney transplantation: a bioethical perspective.](http://www.bbg01.com/cdn/rsc/spnefro/advaccess/253/Nefro342PerspectiveAccesstokidneytransplantation.pdf) Port J Nephrol Hypert 2020; 34(1): 107-109 
 
 - Bruno A Lima, Helena Alves. Comparing the ScandiaTransplant kidney allocation system with a color priority kidney allocation system. Transplant International 2019; Vol32(Suppl 2): 361 (abstract)
