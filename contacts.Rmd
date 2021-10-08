@@ -4,8 +4,8 @@ title: "Contacts"
 
 Bruno A Lima
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9090-4457" href="https://orcid.org/0000-0001-9090-4457" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9090-4457</a></div>
+
 [e-mail](mailto:bioestisticas@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/oficinadebioestatistica/)
-
-[ORCID](https://orcid.org/0000-0001-9090-4457)
