@@ -1,5 +1,5 @@
 ---
-title: "Transplants Open Registry (TOR)"
+title: "Transplants' Open Registry (TxOR)"
 ---
 
 ![](images/od2.jpg)

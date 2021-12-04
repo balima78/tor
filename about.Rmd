@@ -1,8 +1,8 @@
 ---
-title: "Transplants Open Registry (TOR)"
+title: "Transplants' Open Registry (TxOR)"
 ---
 
-Transplants Open Registry (TOR) is a private initiative intended to provide high-quality information about kidney transplantation and based solely on open source resources.
+Transplants Open Registry (TxOR) is a private initiative intended to provide high-quality information about kidney transplantation and based solely on open source resources.
 
 #### Aims
 
