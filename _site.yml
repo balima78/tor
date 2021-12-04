@@ -5,9 +5,9 @@ navbar:
     - text: "About"
       href: about.html
       icon: fa-info
-    - text: "Disclaimer"
-      href: disclaimer.html
-      icon: fa-exclamation-triangle
+    # - text: "Disclaimer"
+    #   href: disclaimer.html
+    #   icon: fa-exclamation-triangle
     - text: "Projects"
       href: projects.html
       icon: fa-cogs

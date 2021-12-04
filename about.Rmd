@@ -15,3 +15,18 @@ Transplants Open Registry (TxOR) is a private initiative intended to provide hig
 - Providing accurate, clear and transparent information on transplantation activities in Portugal.
 
 - Enabling decision-making based on evidence of data.
+
+<br>
+
+----------------
+
+## Disclaimer
+
+```{block, type='warning', echo = T}
+All applications presented here are intended for research purposes only, not for clinical or commercial use. 
+
+TxOR is a non-profit service to the scientific community, provided on an 'AS-IS' basis without any warranty, expressed or implied. 
+
+The authors can not be held liable in any way for the service provided here.
+```
+
