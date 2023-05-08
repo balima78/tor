@@ -1,6 +1,6 @@
 name: "tor"
 navbar:
-  title: "Tx.O.R."
+  title: "TxOR"
   left:
     - text: "About"
       href: about.html
